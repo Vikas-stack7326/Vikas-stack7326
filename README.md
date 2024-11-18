@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vikas-stack7326
+- 👋 Hi, I’m Vikas Singh
 - 👀 I’m interested in software testing 
 - 🌱 I’m currently learning software testing
 - 📫 you reach me through my mail id vikasinghg26@gmail.com
